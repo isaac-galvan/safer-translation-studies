@@ -16,7 +16,7 @@ All of the code, assets, strings, and images can be viewed and modified by anyon
 
 Some of the many reasons we've gone open source:
 
-* **Transparency**: anyone can review the code to find errors of inconsistencies
+* **Transparency**: anyone can review the code to find errors or inconsistencies
 * **Adoption and remixing**: anyone can modify and improve the code or adopt portions of it into their own projects
 * **Support Innovation**: Rokwire project is releasing apps and building block for anyone to build a smart, healthy community.
 
